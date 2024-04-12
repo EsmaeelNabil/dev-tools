@@ -2,6 +2,10 @@
 
 This repository contains a Nushell script `dev-tools.nu` for managing Android devices using adb commands.
 
+
+<img width="1012" alt="image" src="https://github.com/EsmaeelNabil/dev-tools/assets/28542963/a2063162-22d9-41cc-93ae-49d6ac3d689a">
+<img width="1019" alt="image" src="https://github.com/EsmaeelNabil/dev-tools/assets/28542963/5094456c-5c57-4103-a428-500e11885fcc">
+
 ## Prerequisites
 
 - [Nushell](https://www.nushell.sh/)
@@ -34,3 +38,6 @@ cargo install gum
 ```bash
 git clone https://github.com/yourusername/dev-tools.git
 cd dev-tools
+
+./dev-tools.nu
+```
